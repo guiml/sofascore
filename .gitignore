@@ -1,0 +1,5 @@
+# ignore ALL files in ANY directory named other
+other/
+
+# ignore ALL files in ENV
+.sofascore/
